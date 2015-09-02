@@ -1,0 +1,7 @@
+{
+    "name": "xiongjiewu/my-composer",
+    "description": "xiongjiewu's composer test.",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
