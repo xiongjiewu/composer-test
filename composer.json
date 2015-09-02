@@ -1,8 +1,7 @@
 {
     "name": "xiongjiewu/composer-test",
-    "description": "xiongjiewu's composer test.",
+    "description": "xiongjiewu's composer test,here you are.",
     "type":"library",
-    "version":"0.1.0",
     "require": {
         "php": ">=5.3.0"
     }
